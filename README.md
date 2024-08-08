@@ -7,7 +7,7 @@ I am a passionate software developer from Georgia with a deep-seated enthusiasm 
 
 In addition to my professional pursuits, I find joy in music and reading, which enrich my perspective and foster continuous learning. My goal is to leverage my skills in a role that not only enhances my expertise but also prepares me for future leadership opportunities.
 
-##A bit more about me...
+## A bit more about me...
 ```javascript
 const jimmy = {
       code: [Javascript, Typescript, HTML, CSS, Python, SQL],
