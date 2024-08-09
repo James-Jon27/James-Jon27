@@ -15,6 +15,7 @@ const jimmy = {
       challenge: "I am continuing my learning in cybersecurity!",
       contact: {
             email: jamescjones818@gmail.com
+            LinkedIn: www.linkedin.com/in/james-jones-770523315
             github: James-Jon27
       },
       hobbies: [ Music, Bass Player, Writing]
