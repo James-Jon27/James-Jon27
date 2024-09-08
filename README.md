@@ -10,7 +10,7 @@ In addition to my professional pursuits, I find joy in music and reading, which 
 ## A bit more about me...
 ```javascript
 const jimmy = {
-      code: [Javascript, Typescript, HTML, CSS, Python, SQL],
+      code: [Javascript, Typescript, HTML, CSS, Python],
       tools: [React, Redux, Node, Sequelize.js, Express],
       challenge: "I am continuing my learning in cybersecurity!",
       contact: {
